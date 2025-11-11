@@ -37,11 +37,16 @@
 
 ## 📥 Установка
 
-1. **Скачайте скрипт:**
+1. **Скачайте скрипт (github):**
 ```bash
-wget -O docker_backup.sh https://raw.githubusercontent.com/your-repo/docker_backup.sh
-```
+wget -O docker_backup.sh https://raw.githubusercontent.com/kolelan/transferring-project/refs/heads/main/docker_backup.sh
 
+```
+1.1 **Или скачайте скрипт (gitverse)**
+```bash
+wget -O docker_backup.sh https://gitverse.ru/api/repos/Kolelan/transferring-project/raw/branch/main/docker_backup.sh
+
+```
 2. **Сделайте скрипт исполняемым:**
 ```bash
 chmod +x docker_backup.sh
